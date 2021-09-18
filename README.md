@@ -63,5 +63,5 @@ From the main page, the user will be able to navigate through either *Car Dealer
 - [LinkedIn](https://www.linkedin.com/in/elliotolbright/)
 
 👤  **Matt Kragen** (Grocery Store Branch)
-- [GitHub](https://github.com/InOmn1aParatus)
+- [GitHub](https://github.com/matt-kragen)
 - [LinkedIn](https://www.linkedin.com/in/mattkragen/)
