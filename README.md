@@ -13,9 +13,9 @@
 
 ## Overview
 
-[Relational Rails](https://github.com/ElliotOlbright/Relational_Rails) is a week long paired project during Mod 2 of Turing School's Back-End Engineering program.
+> Relational Rails was a week long paired project during Mod 2 of Turing School's Back-End Engineering program.
 
-The goal was to create a functioning Rails Application that can take users through a website and give them the ability to use CRUD commands to Create, Read, Update, and Destroy data while being able to veiw the changes on the website(Rails Application).
+The goal was to create a functioning Rails Application that can take users through a website and give them the ability to use CRUD commands to Create, Read, Update, and Destroy data while being able to veiw the changes on the website.
 
 ## Learning Goals
 
@@ -38,7 +38,7 @@ The project home page and requirements can be found [here](https://backend.turin
 
 ## Getting Started
 
-**Fork this repository:** [Relational Rails](https://github.com/ElliotOlbright/Relational_Rails
+**Fork this repository:** [Relational Rails](https://github.com/matt-kragen/Relational_Rails
 
 **Clone your forked repository:** Run `git clone` with the copied URL.
 
@@ -54,7 +54,7 @@ The project home page and requirements can be found [here](https://backend.turin
 
 From the main page, the user will be able to navigate through either *Car Dealerships* and their *Cars*, or *Grocery Stores* and their *Groceries*. The user can easily access, manipulate, and sort information from within the database using a bright and colorful interface.
 
-## Features
+## Examples
 
 [![Store Index](https://i.postimg.cc/jSZpL25f/Screen-Shot-2021-09-18-at-12-47-09-PM.png)](https://postimg.cc/tsnScXFR)
 
