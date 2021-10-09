@@ -1,0 +1,14 @@
+language: ruby
+cache:
+- bundler
+before_script:
+- bundle exec rake db:create
+- bundle exec rake db:migrate
+- bundle exec rake assets:precompile
+deploy:
+  provider: heroku
+  api_key: 329f2940-ddbb-44fb-8132-d381ef6a63a7
+    secure: "aJ4x+l9Hqom3/aUs9z7dTuBtzrWBUGJXdCjhl2TDArfZxYhFzH9662y3tVzKhOjY4v5CaU0hmpHmE/cCgGR6jsKL7evNPGP1n58B0q7I8rWA63FM7dCDKJWKN1Wf0DFskWNTDqJ9IkVkL7gzmsaezzpECU9TDZZOlKyYQlBX0ksJeKVRfDjbFLhwC6zqjjHZlvOpZatENall0kr+BrKenumixT1ztIYwGernLD91VOPkOz1I7UGiIrkw58ssvwBAE2IZeFZMwWveLj+XZLFRuRatid9IByPr44+Y1DKD56uiAzmjSS5o9DeY5e7C6Y3NrNQ9WwlyA3+tIqp4tVIF3rRYvFwMc901fh7cxh1xbqy7IsWEN3BL8KqdVYUqPQgSg8PFnmd4/mAuGlOXnKYv7UDAlLdG1ypJ88lIHqJaJ4OmFYPVKS0qbx+/xcwyBkkF4DfAmXGlVNb5e/g71cHuXNTNImSrQFg92QDNd9bc6xnnywy7QtAn3YAfqS1mJ9vcNM2Hoevc3gx91gHDeiytGDyU+ajowCQSiOpq3GhHjtr5pjJx98nxiIbwcJDWvJtynQWaKAVm+8cG3n3ZlHqjbiLRgk+wQgTNlwLkieMXbqf/QeV09LviLnDbCFyOu/npvxPKgwojhMs+9W51pU1FeGVNGVAXUAsbeJ+U+CPp1KM="
+  app: Relational_Rails
+  on:
+    repo: relational-rails
