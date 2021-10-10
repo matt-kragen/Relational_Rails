@@ -2,14 +2,16 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Learning Goals](#learning-goals)
-- [Tools Used](#tools-used)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Examples](#examples)
-- [Database Schema](#database-schema)
-- [Contributors](#contributors)
+- [Relational Rails](#relational-rails)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Learning Goals](#learning-goals)
+  - [Tools Used](#tools-used)
+  - [Getting Started](#getting-started)
+  - [Features](#features)
+  - [Examples](#examples)
+  - [Database Schema](#database-schema)
+  - [Contributors](#contributors)
 
 ## Overview
 
@@ -35,6 +37,7 @@ The project home page and requirements can be found [here](https://backend.turin
 | Rails       | ActiveRecord  | HoundCI       | VSCode        |
 | RSpec       | HTML5         | Capybara      | Launchy       |
 | Pry         | CSS3          | ShouldaMatcher| Orderly       |
+| Circle CI   |               |               |               |
 
 ## Getting Started
 
