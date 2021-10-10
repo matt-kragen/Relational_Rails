@@ -2,14 +2,16 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Learning Goals](#learning-goals)
-- [Tools Used](#tools-used)
-- [Getting Started](#getting-started)
-- [Features](#features)
-- [Examples](#examples)
-- [Database Schema](#database-schema)
-- [Contributors](#contributors)
+- [Relational Rails](#relational-rails)
+  - [Table of Contents](#table-of-contents)
+  - [Overview](#overview)
+  - [Learning Goals](#learning-goals)
+  - [Tools Used](#tools-used)
+  - [Getting Started](#getting-started)
+  - [Features](#features)
+  - [Examples](#examples)
+  - [Database Schema](#database-schema)
+  - [Contributors](#contributors)
 
 ## Overview
 
